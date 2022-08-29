@@ -1,0 +1,2 @@
+# MyungBlog
+Blog using Hugo
